@@ -1,0 +1,4 @@
+Log file for date 28-12-2021 11:22:42 :
+
+28-12-2021 11:23:01  : 28-12-2021 11:23:01  Scanned Successfully
+28-12-2021 11:23:55  : 28-12-2021-11-23-54  Results exported to excel
